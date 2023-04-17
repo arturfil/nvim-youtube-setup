@@ -3,6 +3,7 @@ require("core.plugins.telescope")
 require("core.plugins.theme")
 require("core.plugins.lualine")
 require("core.plugins.autopairs")
+require("core.plugins.treesitter")
 -- lsp imports
 require("core.plugins.lsp.mason")
 require("core.plugins.lsp.nvim-cmp")
